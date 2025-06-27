@@ -1,4 +1,4 @@
-# Data-integration-and-transformation
+
 # Data Integration and Data Transformation for Data Mining
 
 This project demonstrates core techniques in **data preprocessing**, focusing on integration and transformation tasks often required before data mining or machine learning.
