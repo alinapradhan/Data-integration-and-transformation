@@ -1,17 +1,17 @@
 # Data-integration-and-transformation
-# 🧠 Data Integration and Data Transformation for Data Mining
+# Data Integration and Data Transformation for Data Mining
 
 This project demonstrates core techniques in **data preprocessing**, focusing on integration and transformation tasks often required before data mining or machine learning.
 
-## 📁 Project Overview
+## Project Overview
 
 The notebook covers:
 
-- 🔗 **Data Integration**
+-  **Data Integration**
   - Tight Coupling (inner join on common keys)
   - Loose Coupling (concatenation)
   
-- 🔄 **Data Transformation**
+-  **Data Transformation**
   - Smoothing using rolling averages
   - Aggregation by groups (e.g., sum of salaries by gender)
   - Discretization (binning continuous data into categories)
@@ -21,7 +21,7 @@ The notebook covers:
     - Z-score Normalization
     - Decimal Scaling
 
-## 📊 Sample Datasets
+##  Sample Datasets
 
 Two small synthetic datasets are used:
 
@@ -30,7 +30,7 @@ Two small synthetic datasets are used:
 
 These are integrated and transformed using `pandas` and `numpy`.
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repo:
    ```bash
